@@ -1,6 +1,8 @@
 # Docker\`Lab
 ## Эко-система создания и управления проектом в Docker.
 
+![docker](https://user-images.githubusercontent.com/24417608/37024505-1bd0c66c-213a-11e8-83de-73b737803778.png)
+
 ## Версия
  0.1 alpha - в стадии разработки.
 
